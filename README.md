@@ -2,4 +2,6 @@
 
 ### Marshal Murphy
 
-Code repository for the article of the same name, published on Medium.
+Read the article on [Medium](https://medium.com/swlh/how-to-mock-instagrams-settings-ui-using-redux-hooks-in-react-native-cf527e5581ca) and in [*The StartUp*](https://medium.com/swlh/how-to-mock-instagrams-settings-ui-using-redux-hooks-in-react-native-cf527e5581ca).
+
+![Finished project](https://github.com/marshallmurphy/redux-hooks-rn/blob/master/assets/final-project.gif)
